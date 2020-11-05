@@ -1,0 +1,14 @@
+{
+  "name": "esempio_express",
+  "version": "1.0.0",
+  "description": "bella applicazione",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "De Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
